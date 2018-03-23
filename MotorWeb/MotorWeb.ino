@@ -42,8 +42,8 @@ uint8_t steerDirection = HIGH;
 // ----------------
 // Set your WiFi SSID and Password here
 // ----------------
-const char* ssid = "ssid";
-const char* password = "password";
+const char* ssid = "THINGS";
+const char* password = "123456789";
 
 ESP8266WebServer server(80);
 
